@@ -1,0 +1,13 @@
+# STS / Eclipse 워크스페이스 메타데이터
+.metadata/
+.recommenders/
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
+
+# 환경 변수 (DB 비밀번호, JWT 시크릿 등)
+.env
+*.local.yml
+*.local.yaml
